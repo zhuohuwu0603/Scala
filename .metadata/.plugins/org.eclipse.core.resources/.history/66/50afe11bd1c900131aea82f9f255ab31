@@ -1,0 +1,5 @@
+package greeter
+
+object HelloObject extends App {
+	println("Hello, World!")
+}

@@ -1,5 +1,5 @@
 package greeter
 
 object Hello extends App {
-	println("hello app2!")
+	println("hello app3!")
 }
